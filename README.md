@@ -11,7 +11,7 @@
 * again run ```cmd``` --> ```cd ./confs/```
 * run ```protractor conf.js```
 
-When tests are finished, it'll generate a html report for you.
+When tests are finished, it'll generate a html report.
 If there are any failures, the page screenshots are saved.
 
 
